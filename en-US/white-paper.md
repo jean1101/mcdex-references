@@ -280,6 +280,8 @@ As the platform continues to grow and evolve, new products will be launched on a
   - Launch automated trading and social trading products
   - Initial MCB token sale
   - Liquidity mining
+  
+  On September 1st, 2020, team decides to suspend team vesting for 6 months - team will lockup for 6 months. 
 
 - Q4 2020
   - New AMM formula for perpetual contracts
